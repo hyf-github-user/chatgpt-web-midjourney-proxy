@@ -90,7 +90,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://github.com/Dooy/chatgpt-web-midjourney-proxy/releases/latest/download/latest.json"
+        "https://github.com/hyf-github-user/chatgpt-web-midjourney-proxy/releases/latest/download/latest.json"
       ],
       "dialog": false,
       "windows": {
